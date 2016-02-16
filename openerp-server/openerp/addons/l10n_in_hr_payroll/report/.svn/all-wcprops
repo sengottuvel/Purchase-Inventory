@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_in_hr_payroll/report
+END
+report_payroll_advice.rml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_in_hr_payroll/report/report_payroll_advice.rml
+END
+report_payroll_advice.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_in_hr_payroll/report/report_payroll_advice.pyc
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_in_hr_payroll/report/__init__.py
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_in_hr_payroll/report/__init__.pyc
+END
+report_hr_salary_employee_bymonth.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_in_hr_payroll/report/report_hr_salary_employee_bymonth.sxw
+END
+report_payslip_details.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_in_hr_payroll/report/report_payslip_details.sxw
+END
+payslip_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_in_hr_payroll/report/payslip_report.py
+END
+report_hr_salary_employee_bymonth.py
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_in_hr_payroll/report/report_hr_salary_employee_bymonth.py
+END
+payslip_report_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_in_hr_payroll/report/payslip_report_view.xml
+END
+report_hr_yearly_salary_detail.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_in_hr_payroll/report/report_hr_yearly_salary_detail.sxw
+END
+payslip_report.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_in_hr_payroll/report/payslip_report.pyc
+END
+report_hr_salary_employee_bymonth.rml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_in_hr_payroll/report/report_hr_salary_employee_bymonth.rml
+END
+report_hr_salary_employee_bymonth.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_in_hr_payroll/report/report_hr_salary_employee_bymonth.pyc
+END
+report_payroll_advice.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_in_hr_payroll/report/report_payroll_advice.sxw
+END
+report_payslip_details.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_in_hr_payroll/report/report_payslip_details.py
+END
+payment_advice_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_in_hr_payroll/report/payment_advice_report.py
+END
+report_payslip_details.rml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_in_hr_payroll/report/report_payslip_details.rml
+END
+report_payslip_details.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_in_hr_payroll/report/report_payslip_details.pyc
+END
+payment_advice_report_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_in_hr_payroll/report/payment_advice_report_view.xml
+END
+report_hr_yearly_salary_detail.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_in_hr_payroll/report/report_hr_yearly_salary_detail.py
+END
+payment_advice_report.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_in_hr_payroll/report/payment_advice_report.pyc
+END
+report_hr_yearly_salary_detail.rml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_in_hr_payroll/report/report_hr_yearly_salary_detail.rml
+END
+report_payroll_advice.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_in_hr_payroll/report/report_payroll_advice.py
+END
+report_hr_yearly_salary_detail.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_in_hr_payroll/report/report_hr_yearly_salary_detail.pyc
+END

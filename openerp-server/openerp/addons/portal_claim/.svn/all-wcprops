@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/portal_claim
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/portal_claim/__openerp__.py
+END
+portal_claim_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/portal_claim/portal_claim_view.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/portal_claim/__init__.py
+END

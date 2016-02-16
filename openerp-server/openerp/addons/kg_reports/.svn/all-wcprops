@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sam_turbo_dev/!svn/ver/124/openerp-server/openerp/addons/kg_reports
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sam_turbo_dev/!svn/ver/79/openerp-server/openerp/addons/kg_reports/__openerp__.py
+END
+JasperDataParser.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sam_turbo_dev/!svn/ver/79/openerp-server/openerp/addons/kg_reports/JasperDataParser.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sam_turbo_dev/!svn/ver/79/openerp-server/openerp/addons/kg_reports/__init__.py
+END

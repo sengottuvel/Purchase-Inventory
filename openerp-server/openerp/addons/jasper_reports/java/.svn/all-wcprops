@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Crossfields_ERP/!svn/ver/159/openerp-server/openerp/addons/jasper_reports/java
+END
+compile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Crossfields_ERP/!svn/ver/3/openerp-server/openerp/addons/jasper_reports/java/compile.sh
+END
+jrxml2pot
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Crossfields_ERP/!svn/ver/3/openerp-server/openerp/addons/jasper_reports/java/jrxml2pot
+END
+jasperserver.log.2015-04-21
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Crossfields_ERP/!svn/ver/3/openerp-server/openerp/addons/jasper_reports/java/jasperserver.log.2015-04-21
+END
+jasperserver.log.2015-04-30
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Crossfields_ERP/!svn/ver/3/openerp-server/openerp/addons/jasper_reports/java/jasperserver.log.2015-04-30
+END
+create-report.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Crossfields_ERP/!svn/ver/3/openerp-server/openerp/addons/jasper_reports/java/create-report.sh
+END
+jasperserver.log.2015-04-24
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Crossfields_ERP/!svn/ver/3/openerp-server/openerp/addons/jasper_reports/java/jasperserver.log.2015-04-24
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Crossfields_ERP/!svn/ver/3/openerp-server/openerp/addons/jasper_reports/java/log4j.properties
+END
+jasperserver.log
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Crossfields_ERP/!svn/ver/159/openerp-server/openerp/addons/jasper_reports/java/jasperserver.log
+END
+po2properties
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Crossfields_ERP/!svn/ver/3/openerp-server/openerp/addons/jasper_reports/java/po2properties
+END

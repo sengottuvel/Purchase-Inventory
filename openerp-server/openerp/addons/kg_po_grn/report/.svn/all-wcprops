@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_grn/report
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_grn/report/__init__.py
+END
+GRN_Slip.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/KGTrust_ERP/!svn/ver/407/openerp-server/openerp/addons/kg_po_grn/report/GRN_Slip.jrxml
+END
+grn_print.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_grn/report/grn_print.py
+END
+grn_print.rml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_grn/report/grn_print.rml
+END
+GRN_Slip.jasper
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_grn/report/GRN_Slip.jasper
+END
+onscreen_po_grn_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/KGTrust_ERP/!svn/ver/158/openerp-server/openerp/addons/kg_po_grn/report/onscreen_po_grn_report.py
+END

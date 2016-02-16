@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_bank_statement_extensions/report
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_bank_statement_extensions/report/__init__.py
+END
+bank_statement_balance_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_bank_statement_extensions/report/bank_statement_balance_report.py
+END
+bank_statement_balance_report.rml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_bank_statement_extensions/report/bank_statement_balance_report.rml
+END

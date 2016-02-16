@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_ec
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_ec/__init__.pyc
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_ec/__openerp__.py
+END
+account_chart.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_ec/account_chart.xml
+END
+account_tax_code.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_ec/account_tax_code.xml
+END
+l10n_chart_ec_wizard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_ec/l10n_chart_ec_wizard.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_ec/__init__.py
+END
+account_tax.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_ec/account_tax.xml
+END

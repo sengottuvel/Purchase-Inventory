@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/module/wizard
+END
+base_module_scan.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/module/wizard/base_module_scan.py
+END
+base_module_update_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/module/wizard/base_module_update_view.xml
+END
+base_module_update.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/module/wizard/base_module_update.pyc
+END
+base_module_upgrade.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/module/wizard/base_module_upgrade.py
+END
+base_module_upgrade_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/module/wizard/base_module_upgrade_view.xml
+END
+base_module_upgrade.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/module/wizard/base_module_upgrade.pyc
+END
+base_module_immediate_install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/module/wizard/base_module_immediate_install.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/module/wizard/__init__.py
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/module/wizard/__init__.pyc
+END
+base_language_install.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/module/wizard/base_language_install.py
+END
+base_language_install_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/module/wizard/base_language_install_view.xml
+END
+base_module_configuration.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/module/wizard/base_module_configuration.py
+END
+base_language_install.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/module/wizard/base_language_install.pyc
+END
+base_import_language.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/module/wizard/base_import_language.py
+END
+base_module_configuration_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/module/wizard/base_module_configuration_view.xml
+END
+base_module_import.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/module/wizard/base_module_import.py
+END
+base_module_configuration.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/module/wizard/base_module_configuration.pyc
+END
+base_import_language_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/module/wizard/base_import_language_view.xml
+END
+base_import_language.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/module/wizard/base_import_language.pyc
+END
+base_module_import_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/module/wizard/base_module_import_view.xml
+END
+base_module_import.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/module/wizard/base_module_import.pyc
+END
+base_update_translations.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/module/wizard/base_update_translations.py
+END
+base_export_language.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/module/wizard/base_export_language.py
+END
+base_update_translations_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/module/wizard/base_update_translations_view.xml
+END
+base_export_language_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/module/wizard/base_export_language_view.xml
+END
+base_update_translations.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/module/wizard/base_update_translations.pyc
+END
+base_export_language.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/module/wizard/base_export_language.pyc
+END
+base_module_update.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/module/wizard/base_module_update.py
+END

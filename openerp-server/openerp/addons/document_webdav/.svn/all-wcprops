@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/document_webdav
+END
+webdav_setup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/document_webdav/webdav_setup.xml
+END
+redirect.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/document_webdav/redirect.py
+END
+dav_fs.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/document_webdav/dav_fs.py
+END
+cache.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/document_webdav/cache.py
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/document_webdav/__openerp__.py
+END
+webdav_demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/document_webdav/webdav_demo.xml
+END
+document_webdav.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/document_webdav/document_webdav.py
+END
+nodes.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/document_webdav/nodes.py
+END
+test_davclient.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/document_webdav/test_davclient.py
+END
+webdav.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/document_webdav/webdav.py
+END
+webdav_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/document_webdav/webdav_view.xml
+END
+webdav_server.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/document_webdav/webdav_server.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/document_webdav/__init__.py
+END

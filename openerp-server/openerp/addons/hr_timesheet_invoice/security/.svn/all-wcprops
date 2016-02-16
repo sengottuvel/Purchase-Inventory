@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_invoice/security
+END
+ir.model.access.csv
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_invoice/security/ir.model.access.csv
+END

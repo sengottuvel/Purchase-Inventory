@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base_calendar/test
+END
+test_crm_recurrent_meeting_case2.yml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base_calendar/test/test_crm_recurrent_meeting_case2.yml
+END
+base_calendar_test.yml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base_calendar/test/base_calendar_test.yml
+END

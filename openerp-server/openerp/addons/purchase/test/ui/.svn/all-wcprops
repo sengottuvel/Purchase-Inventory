@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/purchase/test/ui
+END
+duplicate_order.yml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/purchase/test/ui/duplicate_order.yml
+END
+print_report.yml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/purchase/test/ui/print_report.yml
+END
+delete_order.yml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/purchase/test/ui/delete_order.yml
+END

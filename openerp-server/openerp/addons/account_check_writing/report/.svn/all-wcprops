@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_check_writing/report
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_check_writing/report/__init__.py
+END
+check_print_bottom.rml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_check_writing/report/check_print_bottom.rml
+END
+check_print_middle.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_check_writing/report/check_print_middle.sxw
+END
+check_print.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_check_writing/report/check_print.sxw
+END
+check_print_top.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_check_writing/report/check_print_top.sxw
+END
+check_print_bottom.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_check_writing/report/check_print_bottom.sxw
+END
+check_print.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_check_writing/report/check_print.py
+END
+check_print_middle.rml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_check_writing/report/check_print_middle.rml
+END
+check_print_top.rml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_check_writing/report/check_print_top.rml
+END

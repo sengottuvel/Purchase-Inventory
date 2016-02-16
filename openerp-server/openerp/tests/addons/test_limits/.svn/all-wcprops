@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/tests/addons/test_limits
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/tests/addons/test_limits/models.py
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/tests/addons/test_limits/__openerp__.py
+END
+ir.model.access.csv
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/tests/addons/test_limits/ir.model.access.csv
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/tests/addons/test_limits/__init__.py
+END

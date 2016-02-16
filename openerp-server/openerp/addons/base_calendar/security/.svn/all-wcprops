@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base_calendar/security
+END
+calendar_security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base_calendar/security/calendar_security.xml
+END
+ir.model.access.csv
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base_calendar/security/ir.model.access.csv
+END

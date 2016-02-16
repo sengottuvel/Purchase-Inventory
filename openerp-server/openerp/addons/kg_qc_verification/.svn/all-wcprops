@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sam_turbo_dev/!svn/ver/176/openerp-server/openerp/addons/kg_qc_verification
+END
+kg_qc_verification.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sam_turbo_dev/!svn/ver/176/openerp-server/openerp/addons/kg_qc_verification/kg_qc_verification.py
+END
+kg_qc_verification_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sam_turbo_dev/!svn/ver/166/openerp-server/openerp/addons/kg_qc_verification/kg_qc_verification_view.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sam_turbo_dev/!svn/ver/50/openerp-server/openerp/addons/kg_qc_verification/__init__.py
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sam_turbo_dev/!svn/ver/50/openerp-server/openerp/addons/kg_qc_verification/__openerp__.py
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sam_turbo_dev/!svn/ver/174/openerp-server/openerp/addons/kg_scheduler
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sam_turbo_dev/!svn/ver/118/openerp-server/openerp/addons/kg_scheduler/__openerp__.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sam_turbo_dev/!svn/ver/118/openerp-server/openerp/addons/kg_scheduler/__init__.py
+END
+kg_scheduler.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sam_turbo_dev/!svn/ver/174/openerp-server/openerp/addons/kg_scheduler/kg_scheduler.py
+END
+kg_scheduler_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sam_turbo_dev/!svn/ver/172/openerp-server/openerp/addons/kg_scheduler/kg_scheduler_view.xml
+END

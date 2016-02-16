@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report
+END
+kg_product_reg_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/kg_product_reg_report.py
+END
+kg_serindent_detail_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/kg_serindent_detail_report.py
+END
+consumption_summary.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/consumption_summary.py
+END
+closing_stock_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/KGTrust_ERP/!svn/ver/366/openerp-server/openerp/addons/kg_store_reports/report/closing_stock_report.py
+END
+store_issue_slip.rml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/store_issue_slip.rml
+END
+closing_stock_report.rml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/KGTrust_ERP/!svn/ver/366/openerp-server/openerp/addons/kg_store_reports/report/closing_stock_report.rml
+END
+profit_loss_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/KGTrust_ERP/!svn/ver/396/openerp-server/openerp/addons/kg_store_reports/report/profit_loss_report.py
+END
+open_stock_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/open_stock_report.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/KGTrust_ERP/!svn/ver/470/openerp-server/openerp/addons/kg_store_reports/report/__init__.py
+END
+grn_to_issue.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/grn_to_issue.py
+END
+opening_stock.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/opening_stock.py
+END
+grn_to_issue.rml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/grn_to_issue.rml
+END
+issue_summary_from_mainst.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/issue_summary_from_mainst.py
+END
+opening_stock.rml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/opening_stock.rml
+END
+sales_register_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/KGTrust_ERP/!svn/ver/468/openerp-server/openerp/addons/kg_store_reports/report/sales_register_report.py
+END
+kg_depindent_detail_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/kg_depindent_detail_report.py
+END
+pobill_from_po_acc.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/pobill_from_po_acc.py
+END
+pobill_from_po_acc.rml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/pobill_from_po_acc.rml
+END
+kg_depindent_detail_report.rml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/kg_depindent_detail_report.rml
+END
+gate_pass_register.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/gate_pass_register.py
+END
+new_opening_stock.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/new_opening_stock.py
+END
+gate_pass_register.rml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/gate_pass_register.rml
+END
+consumption_details_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/consumption_details_report.py
+END
+sales_register.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/KGTrust_ERP/!svn/ver/468/openerp-server/openerp/addons/kg_store_reports/report/sales_register.jrxml
+END
+consumption_details_report.rml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/consumption_details_report.rml
+END
+kg_supplier_report.rml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/kg_supplier_report.rml
+END
+kg_profit_report.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/KGTrust_ERP/!svn/ver/395/openerp-server/openerp/addons/kg_store_reports/report/kg_profit_report.jrxml
+END
+dep_indent_to_issue.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/dep_indent_to_issue.py
+END
+major_closing_stock_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/major_closing_stock_report.py
+END
+grn_register_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/KGTrust_ERP/!svn/ver/188/openerp-server/openerp/addons/kg_store_reports/report/grn_register_report.py
+END
+mains_closing_stock_report.rml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/mains_closing_stock_report.rml
+END
+major_closing_stock_report.rml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/major_closing_stock_report.rml
+END
+store_issue_slip.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/store_issue_slip.py
+END
+kg_product_reg_report.rml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/kg_product_reg_report.rml
+END
+kg_serindent_detail_report.rml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/kg_serindent_detail_report.rml
+END
+kg_product_warranty_register.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/kg_product_warranty_register.py
+END
+consumption_summary.rml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/consumption_summary.rml
+END
+kg_product_warranty_register.rml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/kg_product_warranty_register.rml
+END
+pobill_from_store2_po.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/pobill_from_store2_po.py
+END
+open_stock_report.rml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/open_stock_report.rml
+END
+pobill_from_store2_po.rml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/pobill_from_store2_po.rml
+END
+profit_loss_report.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/KGTrust_ERP/!svn/ver/396/openerp-server/openerp/addons/kg_store_reports/report/profit_loss_report.jrxml
+END
+issue_summary_from_mainst.rml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/issue_summary_from_mainst.rml
+END
+kg_pi_detail_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/kg_pi_detail_report.py
+END
+kg_pi_detail_report.rml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/kg_pi_detail_report.rml
+END
+new_opening_stock.rml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/new_opening_stock.rml
+END
+mains_closing_stock_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/KGTrust_ERP/!svn/ver/538/openerp-server/openerp/addons/kg_store_reports/report/mains_closing_stock_report.py
+END
+dep_issue_register.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/dep_issue_register.py
+END
+dep_indent_to_issue.rml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/dep_indent_to_issue.rml
+END
+dep_issue_register.rml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/dep_issue_register.rml
+END
+grn_register_report.rml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/KGTrust_ERP/!svn/ver/188/openerp-server/openerp/addons/kg_store_reports/report/grn_register_report.rml
+END
+kg_supplier_register.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_store_reports/report/kg_supplier_register.py
+END

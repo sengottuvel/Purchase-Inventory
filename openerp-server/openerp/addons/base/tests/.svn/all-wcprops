@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/tests
+END
+test_search.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/tests/test_search.py
+END
+test_ir_values.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/tests/test_ir_values.py
+END
+test_base.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/tests/test_base.py
+END
+test_expression.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/tests/test_expression.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/tests/__init__.py
+END
+test_ir_attachment.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/tests/test_ir_attachment.py
+END
+test_menu.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/tests/test_menu.py
+END

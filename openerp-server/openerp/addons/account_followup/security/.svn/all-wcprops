@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_followup/security
+END
+ir.model.access.csv
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_followup/security/ir.model.access.csv
+END
+account_followup_security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_followup/security/account_followup_security.xml
+END

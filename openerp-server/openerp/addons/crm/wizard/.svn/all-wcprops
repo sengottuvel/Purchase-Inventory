@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/wizard
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/wizard/__init__.py
+END
+crm_phonecall_to_phonecall_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/wizard/crm_phonecall_to_phonecall_view.xml
+END
+crm_phonecall_to_phonecall.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/wizard/crm_phonecall_to_phonecall.pyc
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/wizard/__init__.pyc
+END
+crm_phonecall_to_opportunity.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/wizard/crm_phonecall_to_opportunity.py
+END
+crm_opportunity_to_phonecall.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/wizard/crm_opportunity_to_phonecall.py
+END
+crm_merge_opportunities.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/wizard/crm_merge_opportunities.py
+END
+crm_lead_to_opportunity.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/wizard/crm_lead_to_opportunity.py
+END
+crm_partner_binding.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/wizard/crm_partner_binding.py
+END
+crm_opportunity_to_phonecall_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/wizard/crm_opportunity_to_phonecall_view.xml
+END
+crm_merge_opportunities_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/wizard/crm_merge_opportunities_view.xml
+END
+crm_lead_to_opportunity_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/wizard/crm_lead_to_opportunity_view.xml
+END
+crm_opportunity_to_phonecall.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/wizard/crm_opportunity_to_phonecall.pyc
+END
+crm_merge_opportunities.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/wizard/crm_merge_opportunities.pyc
+END
+crm_lead_to_opportunity.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/wizard/crm_lead_to_opportunity.pyc
+END
+crm_partner_binding.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/wizard/crm_partner_binding.pyc
+END
+crm_phonecall_to_meeting.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/wizard/crm_phonecall_to_meeting.py
+END
+crm_phonecall_to_meeting_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/wizard/crm_phonecall_to_meeting_view.xml
+END
+crm_phonecall_to_phonecall.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/wizard/crm_phonecall_to_phonecall.py
+END

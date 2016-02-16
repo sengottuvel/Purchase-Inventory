@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/KGTrust_ERP/!svn/ver/2/openerp-server/openerp/addons/kg_department_issue/report
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/KGTrust_ERP/!svn/ver/2/openerp-server/openerp/addons/kg_department_issue/report/__init__.py
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/KGTrust_ERP/!svn/ver/2/openerp-server/openerp/addons/kg_department_issue/report/__init__.pyc
+END
+issueslip_on_screen_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/KGTrust_ERP/!svn/ver/2/openerp-server/openerp/addons/kg_department_issue/report/issueslip_on_screen_report.py
+END
+issueslip_on_screen_report.rml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/KGTrust_ERP/!svn/ver/2/openerp-server/openerp/addons/kg_department_issue/report/issueslip_on_screen_report.rml
+END
+issueslip_on_screen_report.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/KGTrust_ERP/!svn/ver/2/openerp-server/openerp/addons/kg_department_issue/report/issueslip_on_screen_report.pyc
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base_report_designer/wizard
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base_report_designer/wizard/__init__.py
+END
+base_report_design_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base_report_designer/wizard/base_report_design_view.xml
+END
+base_report_designer_modify.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base_report_designer/wizard/base_report_designer_modify.py
+END

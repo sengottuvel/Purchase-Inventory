@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sam_turbo_dev/!svn/ver/191/openerp-server/openerp/addons/kg_daily_planning
+END
+kg_daily_planning.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sam_turbo_dev/!svn/ver/191/openerp-server/openerp/addons/kg_daily_planning/kg_daily_planning.py
+END
+kg_daily_planning_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sam_turbo_dev/!svn/ver/176/openerp-server/openerp/addons/kg_daily_planning/kg_daily_planning_view.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sam_turbo_dev/!svn/ver/49/openerp-server/openerp/addons/kg_daily_planning/__init__.py
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sam_turbo_dev/!svn/ver/49/openerp-server/openerp/addons/kg_daily_planning/__openerp__.py
+END

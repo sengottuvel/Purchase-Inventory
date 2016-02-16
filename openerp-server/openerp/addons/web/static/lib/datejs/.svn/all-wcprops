@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/static/lib/datejs
+END
+parser.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/static/lib/datejs/parser.js
+END
+date.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/static/lib/datejs/date.js
+END
+sugarpak.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/static/lib/datejs/sugarpak.js
+END
+time.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/static/lib/datejs/time.js
+END
+extras.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/static/lib/datejs/extras.js
+END
+core.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/static/lib/datejs/core.js
+END

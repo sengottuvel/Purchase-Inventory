@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_sheet/security
+END
+ir.model.access.csv
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_sheet/security/ir.model.access.csv
+END
+hr_timesheet_sheet_security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_sheet/security/hr_timesheet_sheet_security.xml
+END

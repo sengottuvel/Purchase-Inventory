@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/static/test
+END
+mutex.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/static/test/mutex.js
+END
+form.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/static/test/form.js
+END
+qunit-doc.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/static/test/qunit-doc.js
+END
+search.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/static/test/search.js
+END
+class.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/static/test/class.js
+END
+registry.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/static/test/registry.js
+END
+list-utils.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/static/test/list-utils.js
+END
+data.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/static/test/data.js
+END
+evals.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/static/test/evals.js
+END
+list.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/static/test/list.js
+END
+formats.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/static/test/formats.js
+END
+testing.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/static/test/testing.js
+END
+list-editable.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/static/test/list-editable.js
+END
+Widget.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/static/test/Widget.js
+END
+rpc.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/static/test/rpc.js
+END
+fulltest.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/static/test/fulltest.html
+END

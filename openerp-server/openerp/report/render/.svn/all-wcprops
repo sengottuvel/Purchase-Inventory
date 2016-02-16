@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/report/render
+END
+simple.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/report/render/simple.py
+END
+rml.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/report/render/rml.py
+END
+simple.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/report/render/simple.pyc
+END
+rml.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/report/render/rml.pyc
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/report/render/__init__.py
+END
+render.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/report/render/render.py
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/report/render/__init__.pyc
+END
+render.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/report/render/render.pyc
+END

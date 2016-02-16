@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/auth_ldap
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/auth_ldap/__init__.py
+END
+users_ldap.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/auth_ldap/users_ldap.py
+END
+user_ldap_installer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/auth_ldap/user_ldap_installer.xml
+END
+users_ldap_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/auth_ldap/users_ldap_view.xml
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/auth_ldap/__openerp__.py
+END

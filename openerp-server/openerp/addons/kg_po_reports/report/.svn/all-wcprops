@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/report
+END
+kg_so_bill_register.rml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/report/kg_so_bill_register.rml
+END
+po_indent_order.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/report/po_indent_order.py
+END
+kg_purchase_invoice_register.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/KGTrust_ERP/!svn/ver/426/openerp-server/openerp/addons/kg_po_reports/report/kg_purchase_invoice_register.py
+END
+po_indent_order.rml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/report/po_indent_order.rml
+END
+kg_purchase_invoice_register.rml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/KGTrust_ERP/!svn/ver/28/openerp-server/openerp/addons/kg_po_reports/report/kg_purchase_invoice_register.rml
+END
+po_order_grn.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/report/po_order_grn.py
+END
+kg_purchase_order_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/report/kg_purchase_order_report.py
+END
+po_order_grn.rml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/report/po_order_grn.rml
+END
+po_order_issue.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/report/po_order_issue.py
+END
+kg_purchase_order_report.rml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/report/kg_purchase_order_report.rml
+END
+po_order_issue.rml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/report/po_order_issue.rml
+END
+po_indent_to_grn.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/report/po_indent_to_grn.py
+END
+po_indent_to_grn.rml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/report/po_indent_to_grn.rml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/report/__init__.py
+END
+kg_category_count_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/report/kg_category_count_report.py
+END
+kg_po_register.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/report/kg_po_register.py
+END
+kg_category_count_report.rml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/report/kg_category_count_report.rml
+END
+po_pending_stm.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/report/po_pending_stm.py
+END
+kg_po_bill_register.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/report/kg_po_bill_register.py
+END
+kg_po_register.rml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/report/kg_po_register.rml
+END
+kg_so_register.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/report/kg_so_register.py
+END
+kg_po_bill_register.rml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/report/kg_po_bill_register.rml
+END
+po_pending_stm.rml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/report/po_pending_stm.rml
+END
+kg_so_register.rml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/report/kg_so_register.rml
+END
+kg_so_bill_register.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/report/kg_so_bill_register.py
+END

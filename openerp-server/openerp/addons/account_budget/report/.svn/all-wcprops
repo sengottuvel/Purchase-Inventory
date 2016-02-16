@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_budget/report
+END
+crossovered_budget_report.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_budget/report/crossovered_budget_report.sxw
+END
+analytic_account_budget_report.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_budget/report/analytic_account_budget_report.sxw
+END
+budget_report.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_budget/report/budget_report.sxw
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_budget/report/__init__.py
+END
+crossovered_budget_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_budget/report/crossovered_budget_report.py
+END
+analytic_account_budget_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_budget/report/analytic_account_budget_report.py
+END
+budget_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_budget/report/budget_report.py
+END
+crossovered_budget_report.rml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_budget/report/crossovered_budget_report.rml
+END
+analytic_account_budget_report.rml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_budget/report/analytic_account_budget_report.rml
+END
+budget_report.rml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_budget/report/budget_report.rml
+END

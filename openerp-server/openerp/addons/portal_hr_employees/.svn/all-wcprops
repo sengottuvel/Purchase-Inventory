@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/portal_hr_employees
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/portal_hr_employees/__init__.py
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/portal_hr_employees/__init__.pyc
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/portal_hr_employees/__openerp__.py
+END
+hr_employee.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/portal_hr_employees/hr_employee.py
+END
+hr_employee_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/portal_hr_employees/hr_employee_view.xml
+END
+hr_employee.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/portal_hr_employees/hr_employee.pyc
+END

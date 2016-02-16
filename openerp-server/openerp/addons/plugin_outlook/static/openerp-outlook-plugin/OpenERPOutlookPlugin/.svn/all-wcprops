@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin
+END
+frm_select_partner.resx
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/frm_select_partner.resx
+END
+frm_openerp_connection.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/frm_openerp_connection.Designer.cs
+END
+frm_openerp_connection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/frm_openerp_connection.cs
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/AssemblyInfo.cs
+END
+frm_partner.resx
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/frm_partner.resx
+END
+frm_create_doc.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/frm_create_doc.Designer.cs
+END
+frm_contact.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/frm_contact.cs
+END
+Cache.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/Cache.cs
+END
+OpenERPOutlookPlugin.cs
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/OpenERPOutlookPlugin.cs
+END
+frm_choose_document_opt.cs
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/frm_choose_document_opt.cs
+END
+frm_create_doc.resx
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/frm_create_doc.resx
+END
+frm_select_partner.cs
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/frm_select_partner.cs
+END
+frm_partner.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/frm_partner.cs
+END
+frm_openerp_configuration.resx
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/frm_openerp_configuration.resx
+END
+frm_push_mail.designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/frm_push_mail.designer.cs
+END
+Connect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/Connect.cs
+END
+frm_create_doc.cs
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/frm_create_doc.cs
+END
+frm_contact.designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/frm_contact.designer.cs
+END
+OpenERPOutlookPlugin.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/OpenERPOutlookPlugin.csproj
+END
+ConfigManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/ConfigManager.cs
+END
+Tools.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/Tools.cs
+END
+frm_push_mail.resx
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/frm_push_mail.resx
+END
+frm_openerp_configuration.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/frm_openerp_configuration.Designer.cs
+END
+frm_openerp_configuration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/frm_openerp_configuration.cs
+END
+frm_choose_document_opt.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/frm_choose_document_opt.Designer.cs
+END
+frm_openerp_connection.resx
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/frm_openerp_connection.resx
+END
+frm_contact.resx
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/frm_contact.resx
+END
+OpenERPOutlookPlugin.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/OpenERPOutlookPlugin.csproj.user
+END
+frm_select_partner.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/frm_select_partner.Designer.cs
+END
+frm_partner.designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/frm_partner.designer.cs
+END
+frm_choose_document_opt.resx
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/frm_choose_document_opt.resx
+END
+frm_push_mail.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_outlook/static/openerp-outlook-plugin/OpenERPOutlookPlugin/frm_push_mail.cs
+END

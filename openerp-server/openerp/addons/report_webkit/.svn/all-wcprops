@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/report_webkit
+END
+header_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/report_webkit/header_view.xml
+END
+report_helper.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/report_webkit/report_helper.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/report_webkit/__init__.py
+END
+convert.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/report_webkit/convert.py
+END
+webkit_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/report_webkit/webkit_report.py
+END
+data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/report_webkit/data.xml
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/report_webkit/__openerp__.py
+END
+ir_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/report_webkit/ir_report.py
+END
+company.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/report_webkit/company.py
+END
+ir_report_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/report_webkit/ir_report_view.xml
+END
+header.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/report_webkit/header.py
+END
+company_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/report_webkit/company_view.xml
+END
+default_header.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/report_webkit/default_header.html
+END

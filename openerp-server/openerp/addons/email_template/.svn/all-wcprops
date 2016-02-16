@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/email_template
+END
+res_partner_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/email_template/res_partner_view.xml
+END
+res_partner.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/email_template/res_partner.pyc
+END
+html2text.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/email_template/html2text.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/email_template/__init__.py
+END
+res_partner_demo.yml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/email_template/res_partner_demo.yml
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/email_template/__init__.pyc
+END
+email_template.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/email_template/email_template.py
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/email_template/__openerp__.py
+END
+email_template_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/email_template/email_template_view.xml
+END
+res_partner.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/email_template/res_partner.py
+END
+email_template.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/email_template/email_template.pyc
+END

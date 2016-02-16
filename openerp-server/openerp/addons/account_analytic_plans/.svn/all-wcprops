@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_analytic_plans
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_analytic_plans/__init__.py
+END
+account_analytic_plans_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_analytic_plans/account_analytic_plans_view.xml
+END
+account_analytic_plans_report.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_analytic_plans/account_analytic_plans_report.xml
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_analytic_plans/__openerp__.py
+END
+account_analytic_plans.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_analytic_plans/account_analytic_plans.py
+END

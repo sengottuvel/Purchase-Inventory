@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/debian
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/debian/changelog
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/debian/copyright
+END
+openerp.init
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/debian/openerp.init
+END
+openerp.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/debian/openerp.postinst
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/debian/rules
+END
+openerp.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/debian/openerp.postrm
+END
+openerp.install
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/debian/openerp.install
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/debian/control
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/debian/compat
+END

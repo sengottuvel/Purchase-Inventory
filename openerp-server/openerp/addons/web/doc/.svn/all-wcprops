@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/doc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/doc/Makefile
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/doc/index.rst
+END
+make.bat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/doc/make.bat
+END
+client_action.rst
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/doc/client_action.rst
+END
+async.rst
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/doc/async.rst
+END
+testing.rst
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/doc/testing.rst
+END
+widget.rst
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/doc/widget.rst
+END
+rpc.rst
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/doc/rpc.rst
+END
+module.rst
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/doc/module.rst
+END
+guidelines.rst
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/doc/guidelines.rst
+END
+changelog-7.0.rst
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/doc/changelog-7.0.rst
+END
+addon-structure.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/doc/addon-structure.txt
+END
+form_view.rst
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/doc/form_view.rst
+END
+qweb.rst
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/doc/qweb.rst
+END
+test-report.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/doc/test-report.txt
+END
+search_view.rst
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/doc/search_view.rst
+END
+conf.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/doc/conf.py
+END
+list_view.rst
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web/doc/list_view.rst
+END

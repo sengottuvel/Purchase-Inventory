@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/sale_stock/test
+END
+picking_order_policy.yml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/sale_stock/test/picking_order_policy.yml
+END
+prepaid_order_policy.yml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/sale_stock/test/prepaid_order_policy.yml
+END
+sale_order_onchange.yml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/sale_stock/test/sale_order_onchange.yml
+END
+cancel_order_sale_stock.yml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/sale_stock/test/cancel_order_sale_stock.yml
+END

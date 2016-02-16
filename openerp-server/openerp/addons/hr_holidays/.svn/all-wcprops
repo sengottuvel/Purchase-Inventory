@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_holidays
+END
+hr_holidays_demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_holidays/hr_holidays_demo.xml
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_holidays/__init__.pyc
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_holidays/__openerp__.py
+END
+hr_holidays.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_holidays/hr_holidays.py
+END
+hr_holidays_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_holidays/hr_holidays_data.xml
+END
+hr_holidays_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_holidays/hr_holidays_view.xml
+END
+hr_holidays_workflow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_holidays/hr_holidays_workflow.xml
+END
+hr_bel_holidays_2008.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_holidays/hr_bel_holidays_2008.xml
+END
+hr_holidays.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_holidays/hr_holidays.pyc
+END
+hr_holidays_report.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_holidays/hr_holidays_report.xml
+END
+board_hr_holidays_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_holidays/board_hr_holidays_view.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_holidays/__init__.py
+END

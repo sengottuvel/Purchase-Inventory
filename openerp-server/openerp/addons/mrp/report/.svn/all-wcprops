@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp/report
+END
+order.rml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp/report/order.rml
+END
+order.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp/report/order.pyc
+END
+price.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp/report/price.xsl
+END
+workcenter_load.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp/report/workcenter_load.py
+END
+workcenter_load.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp/report/workcenter_load.pyc
+END
+bom_structure.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp/report/bom_structure.sxw
+END
+mrp_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp/report/mrp_report.py
+END
+mrp_report_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp/report/mrp_report_view.xml
+END
+mrp_report.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp/report/mrp_report.pyc
+END
+custom_default.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp/report/custom_default.xsl
+END
+bom_structure.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp/report/bom_structure.py
+END
+mrp_production_order.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp/report/mrp_production_order.py
+END
+bom_structure.rml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp/report/bom_structure.rml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp/report/__init__.py
+END
+bom_structure.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp/report/bom_structure.pyc
+END
+mrp_production_order_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp/report/mrp_production_order_view.xml
+END
+mrp_production_order.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp/report/mrp_production_order.pyc
+END
+custom_rml.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp/report/custom_rml.xsl
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp/report/__init__.pyc
+END
+price.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp/report/price.py
+END
+order.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp/report/order.sxw
+END
+price.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp/report/price.pyc
+END
+order.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp/report/order.py
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sam_turbo_dev/!svn/ver/124/openerp-server/openerp/addons/kg_reports/planning/report
+END
+kg_production_register_report.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sam_turbo_dev/!svn/ver/123/openerp-server/openerp/addons/kg_reports/planning/report/kg_production_register_report.jrxml
+END
+kg_allotted_components_print.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sam_turbo_dev/!svn/ver/93/openerp-server/openerp/addons/kg_reports/planning/report/kg_allotted_components_print.py
+END
+kg_stock_inspection_print.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sam_turbo_dev/!svn/ver/93/openerp-server/openerp/addons/kg_reports/planning/report/kg_stock_inspection_print.py
+END
+kg_schedule_register_report.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sam_turbo_dev/!svn/ver/124/openerp-server/openerp/addons/kg_reports/planning/report/kg_schedule_register_report.jrxml
+END
+kg_stock_statement_report.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sam_turbo_dev/!svn/ver/122/openerp-server/openerp/addons/kg_reports/planning/report/kg_stock_statement_report.jrxml
+END
+kg_qc_register_report.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sam_turbo_dev/!svn/ver/123/openerp-server/openerp/addons/kg_reports/planning/report/kg_qc_register_report.jrxml
+END
+kg_production_register_print.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sam_turbo_dev/!svn/ver/93/openerp-server/openerp/addons/kg_reports/planning/report/kg_production_register_print.py
+END
+kg_planning_register_report.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sam_turbo_dev/!svn/ver/122/openerp-server/openerp/addons/kg_reports/planning/report/kg_planning_register_report.jrxml
+END
+kg_schedule_register_print.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sam_turbo_dev/!svn/ver/79/openerp-server/openerp/addons/kg_reports/planning/report/kg_schedule_register_print.py
+END
+kg_allotted_components_report.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sam_turbo_dev/!svn/ver/122/openerp-server/openerp/addons/kg_reports/planning/report/kg_allotted_components_report.jrxml
+END
+kg_stock_inspection_report.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sam_turbo_dev/!svn/ver/109/openerp-server/openerp/addons/kg_reports/planning/report/kg_stock_inspection_report.jrxml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sam_turbo_dev/!svn/ver/79/openerp-server/openerp/addons/kg_reports/planning/report/__init__.py
+END
+kg_stock_statement_print.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sam_turbo_dev/!svn/ver/96/openerp-server/openerp/addons/kg_reports/planning/report/kg_stock_statement_print.py
+END
+kg_qc_register_print.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sam_turbo_dev/!svn/ver/93/openerp-server/openerp/addons/kg_reports/planning/report/kg_qc_register_print.py
+END
+kg_planning_register_print.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sam_turbo_dev/!svn/ver/93/openerp-server/openerp/addons/kg_reports/planning/report/kg_planning_register_print.py
+END

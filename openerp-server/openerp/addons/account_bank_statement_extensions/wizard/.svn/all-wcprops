@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_bank_statement_extensions/wizard
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_bank_statement_extensions/wizard/__init__.py
+END
+cancel_statement_line.py
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_bank_statement_extensions/wizard/cancel_statement_line.py
+END
+confirm_statement_line_wizard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_bank_statement_extensions/wizard/confirm_statement_line_wizard.xml
+END
+cancel_statement_line_wizard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_bank_statement_extensions/wizard/cancel_statement_line_wizard.xml
+END
+confirm_statement_line.py
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_bank_statement_extensions/wizard/confirm_statement_line.py
+END

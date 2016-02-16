@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/KGTrust_ERP/!svn/ver/166/openerp-server/openerp/addons/kg_so_amendment
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/KGTrust_ERP/!svn/ver/166/openerp-server/openerp/addons/kg_so_amendment/__init__.py
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/KGTrust_ERP/!svn/ver/166/openerp-server/openerp/addons/kg_so_amendment/__openerp__.py
+END
+kg_so_amendment.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/KGTrust_ERP/!svn/ver/497/openerp-server/openerp/addons/kg_so_amendment/kg_so_amendment.py
+END
+kg_so_amendment_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/KGTrust_ERP/!svn/ver/517/openerp-server/openerp/addons/kg_so_amendment/kg_so_amendment_view.xml
+END

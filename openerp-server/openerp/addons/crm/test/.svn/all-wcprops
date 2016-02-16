@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/test
+END
+crm_lead_cancel.yml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/test/crm_lead_cancel.yml
+END
+segmentation.yml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/test/segmentation.yml
+END
+lead2opportunity_assign_salesmen.yml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/test/lead2opportunity_assign_salesmen.yml
+END
+crm_lead_copy.yml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/test/crm_lead_copy.yml
+END
+lead2opportunity2win.yml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/test/lead2opportunity2win.yml
+END
+crm_lead_merge.yml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/test/crm_lead_merge.yml
+END
+customer_request.eml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/test/customer_request.eml
+END
+crm_lead_unlink.yml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/test/crm_lead_unlink.yml
+END
+crm_lead_onchange.yml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/test/crm_lead_onchange.yml
+END
+phonecalls.yml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/test/phonecalls.yml
+END
+crm_lead_message.yml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/crm/test/crm_lead_message.yml
+END

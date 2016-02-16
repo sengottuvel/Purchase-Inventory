@@ -1,0 +1,851 @@
+10
+
+dir
+206
+https://10.100.1.252/svn/sam_turbo_dev/openerp-server/openerp/addons
+https://10.100.1.252/svn/sam_turbo_dev
+
+
+
+2016-02-11T17:40:54.521014Z
+206
+sangeetha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+da83e4b4-8c64-2e4e-bf50-f2b99895438f
+
+auth_oauth
+dir
+
+jasper_reports
+dir
+
+l10n_hr
+dir
+
+project_gtd
+dir
+
+l10n_pl
+dir
+
+warning
+dir
+
+project
+dir
+
+web_api
+dir
+
+analytic_user_function
+dir
+
+hr
+dir
+
+stock_no_autopicking
+dir
+
+portal_hr_employees
+dir
+
+l10n_pt
+dir
+
+document
+dir
+
+purchase_double_validation
+dir
+
+multi_company
+dir
+
+crm_partner_assign
+dir
+
+marketing_campaign
+dir
+
+delivery
+dir
+
+account_analytic_analysis
+dir
+
+base_vat
+dir
+
+base_report_designer
+dir
+
+account_payment
+dir
+
+web_shortcuts
+dir
+
+l10n_ar
+dir
+
+survey
+dir
+
+l10n_at
+dir
+
+portal_project_issue
+dir
+
+l10n_in
+dir
+
+hr_evaluation
+dir
+
+portal
+dir
+
+base_calendar
+dir
+
+portal_stock
+dir
+
+mrp_jit
+dir
+
+l10n_it
+dir
+
+kg_production
+dir
+
+l10n_syscohada
+dir
+
+kg_daily_planning
+dir
+
+purchase
+dir
+
+claim_from_delivery
+dir
+
+base_quality_interrogation.py
+file
+
+
+
+
+2016-02-11T07:40:33.967954Z
+b3c9c49059735e21b12ec6c06d8d2afd
+2015-12-10T01:13:21.166520Z
+2
+sengottuvelu
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14692
+
+kg_reports
+dir
+
+hr_timesheet
+dir
+
+event_moodle
+dir
+
+kg_melting
+dir
+
+l10n_be
+dir
+
+crm
+dir
+
+sale_margin
+dir
+
+sale
+dir
+
+account_voucher
+dir
+
+plugin_thunderbird
+dir
+
+note_pad
+dir
+
+web_linkedin
+dir
+
+l10n_bo
+dir
+
+account_test
+dir
+
+membership
+dir
+
+l10n_br
+dir
+
+base_action_rule
+dir
+
+crm_helpdesk
+dir
+
+web_diagram
+dir
+
+account_cancel
+dir
+
+mrp_operations
+dir
+
+idea
+dir
+
+web_tests_demo
+dir
+
+pad
+dir
+
+document_webdav
+dir
+
+portal_claim
+dir
+
+portal_anonymous
+dir
+
+lunch
+dir
+
+l10n_ro
+dir
+
+web_gantt
+dir
+
+association
+dir
+
+l10n_ca
+dir
+
+product_margin
+dir
+
+contacts
+dir
+
+event
+dir
+
+google_base_account
+dir
+
+email_template
+dir
+
+l10n_ch
+dir
+
+project_mrp
+dir
+
+auth_oauth_signup
+dir
+
+crm_claim
+dir
+
+web_kanban
+dir
+
+l10n_cl
+dir
+
+l10n_cn
+dir
+
+base_setup
+dir
+
+l10n_co
+dir
+
+l10n_in_hr_payroll
+dir
+
+l10n_fr_hr_payroll
+dir
+
+hr_timesheet_invoice
+dir
+
+l10n_cr
+dir
+
+mrp_repair
+dir
+
+audittrail
+dir
+
+portal_crm
+dir
+
+report_intrastat
+dir
+
+l10n_si
+dir
+
+sale_analytic_plans
+dir
+
+l10n_be_coda
+dir
+
+web_calendar
+dir
+
+kg_pattern_master
+dir
+
+l10n_be_hr_payroll
+dir
+
+stock_location
+dir
+
+project_timesheet
+dir
+
+process
+dir
+
+sale_journal
+dir
+
+marketing
+dir
+
+l10n_de
+dir
+
+kg_users
+dir
+
+google_docs
+dir
+
+sale_stock
+dir
+
+plugin
+dir
+
+kg_stage_master
+dir
+
+auth_openid
+dir
+
+sale_order_dates
+dir
+
+share
+dir
+
+sale_mrp
+dir
+
+analytic
+dir
+
+l10n_th
+dir
+
+portal_sale
+dir
+
+crm_todo
+dir
+
+decimal_precision
+dir
+
+plugin_outlook
+dir
+
+kg_moc_master
+dir
+
+l10n_lu
+dir
+
+web
+dir
+
+web_view_editor
+dir
+
+l10n_tr
+dir
+
+.bzrignore
+file
+
+
+
+
+2016-02-11T07:40:33.967954Z
+a89245058732b01796d0ce1e2279fb00
+2015-12-10T01:13:21.166520Z
+2
+sengottuvelu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+l10n_ec
+dir
+
+analytic_contract_hr_expense
+dir
+
+mail
+dir
+
+kg_box_master
+dir
+
+account_anglo_saxon
+dir
+
+l10n_be_hr_payroll_account
+dir
+
+board
+dir
+
+l10n_ma
+dir
+
+account_bank_statement_extensions
+dir
+
+purchase_analytic_plans
+dir
+
+fetchmail
+dir
+
+account
+dir
+
+l10n_fr_rib
+dir
+
+kg_pumpmodel_master
+dir
+
+hr_attendance
+dir
+
+web_tests
+dir
+
+kg_scheduler
+dir
+
+auth_ldap
+dir
+
+l10n_es
+dir
+
+l10n_et
+dir
+
+purchase_requisition
+dir
+
+project_issue_sheet
+dir
+
+hr_timesheet_sheet
+dir
+
+l10n_uk
+dir
+
+base
+dir
+
+hr_payroll
+dir
+
+account_accountant
+dir
+
+account_chart
+dir
+
+base_status
+dir
+
+project_issue
+dir
+
+kg_machine_shop
+dir
+
+l10n_mx
+dir
+
+l10n_us
+dir
+
+stock
+dir
+
+web_analytics
+dir
+
+event_sale
+dir
+
+marketing_campaign_crm_demo
+dir
+
+portal_project
+dir
+
+resource
+dir
+
+l10n_uy
+dir
+
+account_asset
+dir
+
+account_check_writing
+dir
+
+portal_project_long_term
+dir
+
+mrp
+dir
+
+anonymization
+dir
+
+web_hello
+dir
+
+l10n_be_invoice_bba
+dir
+
+l10n_fr
+dir
+
+portal_event
+dir
+
+base_iban
+dir
+
+l10n_nl
+dir
+
+l10n_ve
+dir
+
+product_visible_discount
+dir
+
+hr_contract
+dir
+
+kg_menus
+dir
+
+document_page
+dir
+
+project_long_term
+dir
+
+account_report_company
+dir
+
+account_analytic_plans
+dir
+
+l10n_vn
+dir
+
+knowledge
+dir
+
+product_expiry
+dir
+
+product
+dir
+
+kg_mail_settings
+dir
+
+account_followup
+dir
+
+account_analytic_default
+dir
+
+subscription
+dir
+
+l10n_multilang
+dir
+
+auth_signup
+dir
+
+document_ftp
+dir
+
+hr_payroll_account
+dir
+
+mrp_byproduct
+dir
+
+hr_recruitment
+dir
+
+pad_project
+dir
+
+product_manufacturer
+dir
+
+kg_weekly_schedule
+dir
+
+web_graph
+dir
+
+fleet
+dir
+
+edi
+dir
+
+l10n_gr
+dir
+
+procurement
+dir
+
+l10n_gt
+dir
+
+base_import
+dir
+
+note
+dir
+
+hr_holidays
+dir
+
+kg_stock_inward
+dir
+
+report_webkit
+dir
+
+kg_division_master
+dir
+
+point_of_sale
+dir
+
+auth_crypt
+dir
+
+account_sequence
+dir
+
+web_printscreen_zb
+dir
+
+sale_crm
+dir
+
+kg_qc_verification
+dir
+
+account_budget
+dir
+
+__init__.py
+file
+
+
+
+
+2016-02-11T07:40:33.967954Z
+47fc9a4d123ee98029d2a62825dcea38
+2015-12-10T01:13:21.166520Z
+2
+sengottuvelu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1657
+
+base_gengo
+dir
+
+__init__.pyc
+file
+
+
+
+
+2016-02-11T07:40:33.967954Z
+0a78d835c7d3f784867252b7b2ea96d7
+2015-12-10T01:13:21.166520Z
+2
+sengottuvelu
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+707
+
+crm_profiling
+dir
+
+l10n_pa
+dir
+
+l10n_pe
+dir
+
+kg_bom
+dir
+
+stock_invoice_directly
+dir
+
+l10n_hn
+dir
+
+hr_expense
+dir
+

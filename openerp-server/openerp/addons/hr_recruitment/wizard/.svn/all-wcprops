@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_recruitment/wizard
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_recruitment/wizard/__init__.py
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_recruitment/wizard/__init__.pyc
+END
+hr_recruitment_create_partner_job.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_recruitment/wizard/hr_recruitment_create_partner_job.py
+END
+hr_recruitment_create_partner_job_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_recruitment/wizard/hr_recruitment_create_partner_job_view.xml
+END
+hr_recruitment_employee_hired.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_recruitment/wizard/hr_recruitment_employee_hired.py
+END
+hr_recruitment_create_partner_job.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_recruitment/wizard/hr_recruitment_create_partner_job.pyc
+END
+hr_recruitment_employee_hired.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_recruitment/wizard/hr_recruitment_employee_hired.pyc
+END
+hr_recruitment_employee_hired.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_recruitment/wizard/hr_recruitment_employee_hired.xml
+END

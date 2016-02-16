@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_be_coda
+END
+l10n_be_coda_wizard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_be_coda/l10n_be_coda_wizard.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_be_coda/__init__.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_be_coda/README.txt
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_be_coda/__openerp__.py
+END
+l10n_be_coda.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_be_coda/l10n_be_coda.py
+END
+l10n_be_coda_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_be_coda/l10n_be_coda_view.xml
+END

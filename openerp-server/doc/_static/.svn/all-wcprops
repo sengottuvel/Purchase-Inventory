@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/doc/_static
+END
+openerp.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/doc/_static/openerp.png
+END
+02_mvc_diagram.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/doc/_static/02_mvc_diagram.png
+END
+03_module_gen_view.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/doc/_static/03_module_gen_view.png
+END
+02_openerp_architecture.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/doc/_static/02_openerp_architecture.png
+END

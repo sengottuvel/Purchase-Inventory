@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_attendance/security
+END
+ir_rule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_attendance/security/ir_rule.xml
+END
+ir.model.access.csv
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_attendance/security/ir.model.access.csv
+END

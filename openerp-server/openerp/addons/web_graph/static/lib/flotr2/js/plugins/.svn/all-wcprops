@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web_graph/static/lib/flotr2/js/plugins
+END
+download.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web_graph/static/lib/flotr2/js/plugins/download.js
+END
+spreadsheet.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web_graph/static/lib/flotr2/js/plugins/spreadsheet.js
+END
+crosshair.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web_graph/static/lib/flotr2/js/plugins/crosshair.js
+END
+handles.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web_graph/static/lib/flotr2/js/plugins/handles.js
+END
+legend.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web_graph/static/lib/flotr2/js/plugins/legend.js
+END
+labels.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web_graph/static/lib/flotr2/js/plugins/labels.js
+END
+hit.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web_graph/static/lib/flotr2/js/plugins/hit.js
+END
+titles.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web_graph/static/lib/flotr2/js/plugins/titles.js
+END
+grid.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web_graph/static/lib/flotr2/js/plugins/grid.js
+END
+selection.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web_graph/static/lib/flotr2/js/plugins/selection.js
+END

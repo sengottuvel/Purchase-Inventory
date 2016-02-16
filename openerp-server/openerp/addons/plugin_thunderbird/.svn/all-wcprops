@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_thunderbird
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_thunderbird/__init__.py
+END
+plugin_thunderbird.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_thunderbird/plugin_thunderbird.xml
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_thunderbird/__init__.pyc
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_thunderbird/__openerp__.py
+END
+plugin_thunderbird.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_thunderbird/plugin_thunderbird.py
+END
+plugin_thunderbird.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/plugin_thunderbird/plugin_thunderbird.pyc
+END

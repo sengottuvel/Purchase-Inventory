@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/wizard
+END
+po_indent_to_order_wizard.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/wizard/po_indent_to_order_wizard.py
+END
+kg_po_register_wiz.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/wizard/kg_po_register_wiz.py
+END
+kg_purchase_invoice_reg_wiz.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/KGTrust_ERP/!svn/ver/420/openerp-server/openerp/addons/kg_po_reports/wizard/kg_purchase_invoice_reg_wiz.py
+END
+kg_po_bill_register_wiz.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/wizard/kg_po_bill_register_wiz.py
+END
+kg_category_count_wizard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/wizard/kg_category_count_wizard.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/wizard/__init__.py
+END
+kg_so_register_wiz.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/wizard/kg_so_register_wiz.py
+END
+kg_so_bill_register_wiz.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/wizard/kg_so_bill_register_wiz.py
+END
+kg_po_register_wiz.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/wizard/kg_po_register_wiz.xml
+END
+po_indent_to_order_wizard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/wizard/po_indent_to_order_wizard.xml
+END
+kg_purchase_invoice_reg_wiz.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/KGTrust_ERP/!svn/ver/420/openerp-server/openerp/addons/kg_po_reports/wizard/kg_purchase_invoice_reg_wiz.xml
+END
+kg_purchase_order_wizard.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/wizard/kg_purchase_order_wizard.py
+END
+kg_po_pending_stm_wizard.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/wizard/kg_po_pending_stm_wizard.py
+END
+kg_po_bill_register_wiz.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/wizard/kg_po_bill_register_wiz.xml
+END
+po_to_grn_wizard.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/wizard/po_to_grn_wizard.py
+END
+kg_so_register_wiz.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/wizard/kg_so_register_wiz.xml
+END
+po_indent_to_grn_wizard.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/wizard/po_indent_to_grn_wizard.py
+END
+po_to_issue_wizard.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/wizard/po_to_issue_wizard.py
+END
+kg_care.gif
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/wizard/kg_care.gif
+END
+kg_so_bill_register_wiz.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/wizard/kg_so_bill_register_wiz.xml
+END
+kg_purchase_order_wizard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/wizard/kg_purchase_order_wizard.xml
+END
+kg_po_pending_stm_wizard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/wizard/kg_po_pending_stm_wizard.xml
+END
+po_to_grn_wizard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/wizard/po_to_grn_wizard.xml
+END
+po_indent_to_grn_wizard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/wizard/po_indent_to_grn_wizard.xml
+END
+po_to_issue_wizard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/wizard/po_to_issue_wizard.xml
+END
+kg_category_count_wizard.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_po_reports/wizard/kg_category_count_wizard.py
+END

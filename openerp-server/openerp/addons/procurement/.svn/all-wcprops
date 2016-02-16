@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sam_turbo_dev/!svn/ver/177/openerp-server/openerp/addons/procurement
+END
+board_mrp_procurement_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/procurement/board_mrp_procurement_view.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/procurement/__init__.py
+END
+stock_orderpoint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/procurement/stock_orderpoint.xml
+END
+schedulers.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/procurement/schedulers.py
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sam_turbo_dev/!svn/ver/177/openerp-server/openerp/addons/procurement/__init__.pyc
+END
+procurement.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sam_turbo_dev/!svn/ver/177/openerp-server/openerp/addons/procurement/procurement.py
+END
+procurement_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/procurement/procurement_data.xml
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/procurement/__openerp__.py
+END
+schedulers.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sam_turbo_dev/!svn/ver/177/openerp-server/openerp/addons/procurement/schedulers.pyc
+END
+procurement_workflow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/procurement/procurement_workflow.xml
+END
+procurement_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sam_turbo_dev/!svn/ver/21/openerp-server/openerp/addons/procurement/procurement_view.xml
+END
+procurement.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sam_turbo_dev/!svn/ver/177/openerp-server/openerp/addons/procurement/procurement.pyc
+END
+company.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/procurement/company.py
+END
+company_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/procurement/company_view.xml
+END
+company.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sam_turbo_dev/!svn/ver/177/openerp-server/openerp/addons/procurement/company.pyc
+END
+procurement_demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/procurement/procurement_demo.xml
+END

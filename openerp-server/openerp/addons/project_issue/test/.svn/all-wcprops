@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/project_issue/test
+END
+issue.eml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/project_issue/test/issue.eml
+END
+issue_process.yml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/project_issue/test/issue_process.yml
+END
+subscribe_issue.yml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/project_issue/test/subscribe_issue.yml
+END
+issue_demo.yml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/project_issue/test/issue_demo.yml
+END
+cancel_issue.yml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/project_issue/test/cancel_issue.yml
+END

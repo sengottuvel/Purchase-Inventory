@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp_repair/wizard
+END
+make_invoice.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp_repair/wizard/make_invoice.py
+END
+mrp_repair_make_invoice_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp_repair/wizard/mrp_repair_make_invoice_view.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp_repair/wizard/__init__.py
+END
+cancel_repair.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp_repair/wizard/cancel_repair.py
+END
+mrp_repair_cancel_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/mrp_repair/wizard/mrp_repair_cancel_view.xml
+END

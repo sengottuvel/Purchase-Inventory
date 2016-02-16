@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sam_turbo_dev/!svn/ver/155/openerp-server/openerp/addons/kg_division_master
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/kg_division_master/__init__.py
+END
+kg_division_master.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sam_turbo_dev/!svn/ver/155/openerp-server/openerp/addons/kg_division_master/kg_division_master.py
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sam_turbo_dev/!svn/ver/155/openerp-server/openerp/addons/kg_division_master/__init__.pyc
+END
+kg_division_master_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sam_turbo_dev/!svn/ver/17/openerp-server/openerp/addons/kg_division_master/kg_division_master_view.xml
+END
+kg_division_master.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sam_turbo_dev/!svn/ver/155/openerp-server/openerp/addons/kg_division_master/kg_division_master.pyc
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/kg_division_master/__openerp__.py
+END

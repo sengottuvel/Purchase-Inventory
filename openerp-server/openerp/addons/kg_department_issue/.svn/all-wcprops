@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/KGTrust_ERP/!svn/ver/2/openerp-server/openerp/addons/kg_department_issue
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/KGTrust_ERP/!svn/ver/2/openerp-server/openerp/addons/kg_department_issue/__openerp__.py
+END
+kg_stock_partial_picking.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/KGTrust_ERP/!svn/ver/2/openerp-server/openerp/addons/kg_department_issue/kg_stock_partial_picking.py
+END
+kg_stock_partial_picking_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/KGTrust_ERP/!svn/ver/2/openerp-server/openerp/addons/kg_department_issue/kg_stock_partial_picking_view.xml
+END
+onscreen_store_issue_slip.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/KGTrust_ERP/!svn/ver/2/openerp-server/openerp/addons/kg_department_issue/onscreen_store_issue_slip.py
+END
+onscreen_store_issue_slip.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/KGTrust_ERP/!svn/ver/2/openerp-server/openerp/addons/kg_department_issue/onscreen_store_issue_slip.pyc
+END
+Issue_Slip.jasper
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/KGTrust_ERP/!svn/ver/2/openerp-server/openerp/addons/kg_department_issue/Issue_Slip.jasper
+END
+kg_department_issue.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/KGTrust_ERP/!svn/ver/500/openerp-server/openerp/addons/kg_department_issue/kg_department_issue.py
+END
+kg_department_issue_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/KGTrust_ERP/!svn/ver/500/openerp-server/openerp/addons/kg_department_issue/kg_department_issue_view.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/KGTrust_ERP/!svn/ver/2/openerp-server/openerp/addons/kg_department_issue/__init__.py
+END
+kg_department_issue.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/KGTrust_ERP/!svn/ver/2/openerp-server/openerp/addons/kg_department_issue/kg_department_issue.pyc
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/KGTrust_ERP/!svn/ver/2/openerp-server/openerp/addons/kg_department_issue/__init__.pyc
+END
+Issue_Slip.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/KGTrust_ERP/!svn/ver/2/openerp-server/openerp/addons/kg_department_issue/Issue_Slip.jrxml
+END
+dep_issue_report.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/KGTrust_ERP/!svn/ver/2/openerp-server/openerp/addons/kg_department_issue/dep_issue_report.xml
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Crossfields_ERP/!svn/ver/3/openerp-server/openerp/addons/jasper_reports/report
+END
+portrait_header.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Crossfields_ERP/!svn/ver/3/openerp-server/openerp/addons/jasper_reports/report/portrait_header.jrxml
+END
+landscape_header.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Crossfields_ERP/!svn/ver/3/openerp-server/openerp/addons/jasper_reports/report/landscape_header.jrxml
+END
+report_header.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Crossfields_ERP/!svn/ver/3/openerp-server/openerp/addons/jasper_reports/report/report_header.jrxml
+END
+document_header.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Crossfields_ERP/!svn/ver/3/openerp-server/openerp/addons/jasper_reports/report/document_header.jrxml
+END

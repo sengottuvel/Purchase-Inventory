@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web_graph/static/lib/flotr2
+END
+flotr2.ie.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web_graph/static/lib/flotr2/flotr2.ie.min.js
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web_graph/static/lib/flotr2/LICENSE
+END
+flotr2.examples.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web_graph/static/lib/flotr2/flotr2.examples.min.js
+END
+flotr2.examples.types.js
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web_graph/static/lib/flotr2/flotr2.examples.types.js
+END
+flotr2.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web_graph/static/lib/flotr2/flotr2.js
+END
+flotr2.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web_graph/static/lib/flotr2/flotr2.min.js
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web_graph/static/lib/flotr2/README.md
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/web_graph/static/lib/flotr2/Makefile
+END

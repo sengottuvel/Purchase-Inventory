@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/report/pyPdf
+END
+xmp.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/report/pyPdf/xmp.py
+END
+filters.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/report/pyPdf/filters.py
+END
+pdf.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/report/pyPdf/pdf.py
+END
+generic.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/report/pyPdf/generic.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/report/pyPdf/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/report/pyPdf/utils.py
+END

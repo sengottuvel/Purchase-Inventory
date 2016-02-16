@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_es
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_es/__init__.pyc
+END
+account_chart_pymes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_es/account_chart_pymes.xml
+END
+taxes_data_pymes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_es/taxes_data_pymes.xml
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_es/__openerp__.py
+END
+fiscal_templates_pymes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_es/fiscal_templates_pymes.xml
+END
+account_chart.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_es/account_chart.xml
+END
+taxes_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_es/taxes_data.xml
+END
+fiscal_templates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_es/fiscal_templates.xml
+END
+l10n_es_wizard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_es/l10n_es_wizard.xml
+END
+account_chart_assoc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_es/account_chart_assoc.xml
+END
+taxes_data_assoc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_es/taxes_data_assoc.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_es/__init__.py
+END
+fiscal_templates_assoc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_es/fiscal_templates_assoc.xml
+END

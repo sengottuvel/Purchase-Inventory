@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_sequence
+END
+account_sequence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_sequence/account_sequence.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_sequence/__init__.py
+END
+account_sequence_installer.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_sequence/account_sequence_installer.py
+END
+account_sequence_installer_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_sequence/account_sequence_installer_view.xml
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_sequence/__openerp__.py
+END
+account_sequence.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_sequence/account_sequence.py
+END
+account_sequence_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_sequence/account_sequence_data.xml
+END

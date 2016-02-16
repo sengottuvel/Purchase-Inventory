@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sam_turbo_dev/!svn/ver/60/openerp-server/openerp/addons/stock
+END
+partner.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/partner.py
+END
+board_warehouse_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/board_warehouse_view.xml
+END
+partner_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/partner_view.xml
+END
+res_config.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/res_config.py
+END
+partner.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sam_turbo_dev/!svn/ver/60/openerp-server/openerp/addons/stock/partner.pyc
+END
+stock_incoterms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/stock_incoterms.xml
+END
+res_config_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/res_config_view.xml
+END
+product.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/product.py
+END
+product_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/product_data.xml
+END
+res_config.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sam_turbo_dev/!svn/ver/60/openerp-server/openerp/addons/stock/res_config.pyc
+END
+product_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/product_view.xml
+END
+product.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sam_turbo_dev/!svn/ver/60/openerp-server/openerp/addons/stock/product.pyc
+END
+stock.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/stock.py
+END
+stock_sequence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/stock_sequence.xml
+END
+stock_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/stock_data.xml
+END
+stock_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/stock_view.xml
+END
+stock_workflow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/stock_workflow.xml
+END
+stock.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sam_turbo_dev/!svn/ver/60/openerp-server/openerp/addons/stock/stock.pyc
+END
+stock_report.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/stock_report.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/__init__.py
+END
+stock_demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/stock_demo.xml
+END
+stock_demo.yml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/stock_demo.yml
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sam_turbo_dev/!svn/ver/60/openerp-server/openerp/addons/stock/__init__.pyc
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/__openerp__.py
+END

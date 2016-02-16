@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_sheet/static/src/css
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_sheet/static/src/css/Makefile
+END
+timesheet.css
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_sheet/static/src/css/timesheet.css
+END
+timesheet.sass
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_sheet/static/src/css/timesheet.sass
+END

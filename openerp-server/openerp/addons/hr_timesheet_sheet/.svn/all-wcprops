@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_sheet
+END
+hr_timesheet_sheet.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_sheet/hr_timesheet_sheet.py
+END
+board_hr_timesheet_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_sheet/board_hr_timesheet_view.xml
+END
+hr_timesheet_sheet_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_sheet/hr_timesheet_sheet_data.xml
+END
+hr_timesheet_sheet_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_sheet/hr_timesheet_sheet_view.xml
+END
+hr_timesheet_sheet.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_sheet/hr_timesheet_sheet.pyc
+END
+res_config.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_sheet/res_config.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_sheet/__init__.py
+END
+res_config_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_sheet/res_config_view.xml
+END
+res_config.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_sheet/res_config.pyc
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_sheet/__init__.pyc
+END
+hr_timesheet_workflow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_sheet/hr_timesheet_workflow.xml
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_sheet/__openerp__.py
+END
+hr_timesheet_sheet_demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_sheet/hr_timesheet_sheet_demo.xml
+END

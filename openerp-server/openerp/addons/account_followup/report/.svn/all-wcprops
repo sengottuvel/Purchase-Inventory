@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_followup/report
+END
+account_followup_report.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_followup/report/account_followup_report.xml
+END
+account_followup_print.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_followup/report/account_followup_print.sxw
+END
+account_followup_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_followup/report/account_followup_report.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_followup/report/__init__.py
+END
+account_followup_print.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_followup/report/account_followup_print.py
+END
+account_followup_print.rml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_followup/report/account_followup_print.rml
+END

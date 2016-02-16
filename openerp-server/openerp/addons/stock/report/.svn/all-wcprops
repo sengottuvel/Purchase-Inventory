@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sam_turbo_dev/!svn/ver/60/openerp-server/openerp/addons/stock/report
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sam_turbo_dev/!svn/ver/60/openerp-server/openerp/addons/stock/report/__init__.pyc
+END
+stock_graph.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/report/stock_graph.py
+END
+stock_by_location.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/report/stock_by_location.py
+END
+lot_overview_all.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/report/lot_overview_all.sxw
+END
+stock_graph.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sam_turbo_dev/!svn/ver/60/openerp-server/openerp/addons/stock/report/stock_graph.pyc
+END
+lot_overview_all.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/report/lot_overview_all.py
+END
+picking.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/report/picking.sxw
+END
+lot_overview.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/report/lot_overview.sxw
+END
+lot_overview_all.rml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/report/lot_overview_all.rml
+END
+lot_overview_all.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sam_turbo_dev/!svn/ver/60/openerp-server/openerp/addons/stock/report/lot_overview_all.pyc
+END
+stock_inventory_move_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/report/stock_inventory_move_report.py
+END
+lot_overview.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/report/lot_overview.py
+END
+picking.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/report/picking.py
+END
+product_stock.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sam_turbo_dev/!svn/ver/60/openerp-server/openerp/addons/stock/report/product_stock.pyc
+END
+picking.rml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/report/picking.rml
+END
+lot_overview.rml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/report/lot_overview.rml
+END
+picking.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sam_turbo_dev/!svn/ver/60/openerp-server/openerp/addons/stock/report/picking.pyc
+END
+lot_overview.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sam_turbo_dev/!svn/ver/60/openerp-server/openerp/addons/stock/report/lot_overview.pyc
+END
+lot_move_label.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/report/lot_move_label.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/report/__init__.py
+END
+lot_move_label.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/report/lot_move_label.xsl
+END
+report_stock_move.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/report/report_stock_move.py
+END
+report_stock_move_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/report/report_stock_move_view.xml
+END
+report_stock_move.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sam_turbo_dev/!svn/ver/60/openerp-server/openerp/addons/stock/report/report_stock_move.pyc
+END
+report_stock.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sam_turbo_dev/!svn/ver/60/openerp-server/openerp/addons/stock/report/report_stock.py
+END
+stock_inventory_move.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/report/stock_inventory_move.sxw
+END
+report_stock_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/report/report_stock_view.xml
+END
+report_stock.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sam_turbo_dev/!svn/ver/60/openerp-server/openerp/addons/stock/report/report_stock.pyc
+END
+product_stock.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/report/product_stock.py
+END
+stock_by_location.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/report/stock_by_location.xsl
+END
+stock_inventory_move_report.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sam_turbo_dev/!svn/ver/60/openerp-server/openerp/addons/stock/report/stock_inventory_move_report.pyc
+END
+stock_inventory_move.rml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/stock/report/stock_inventory_move.rml
+END

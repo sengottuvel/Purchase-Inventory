@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_invoice/report
+END
+account_analytic_profit.sxw
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_invoice/report/account_analytic_profit.sxw
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_invoice/report/__init__.py
+END
+report_analytic.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_invoice/report/report_analytic.py
+END
+report_analytic_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_invoice/report/report_analytic_view.xml
+END
+account_analytic_profit.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_invoice/report/account_analytic_profit.py
+END
+account_analytic_profit.rml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_invoice/report/account_analytic_profit.rml
+END
+hr_timesheet_invoice_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_invoice/report/hr_timesheet_invoice_report.py
+END
+hr_timesheet_invoice_report_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/hr_timesheet_invoice/report/hr_timesheet_invoice_report_view.xml
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_lu/wizard
+END
+print_vat.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_lu/wizard/print_vat.py
+END
+TVA_TRI_10_xxxx.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_lu/wizard/TVA_TRI_10_xxxx.pdf
+END
+print_vat_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_lu/wizard/print_vat_view.xml
+END
+pdf_ext.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_lu/wizard/pdf_ext.py
+END
+print_vat.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_lu/wizard/print_vat.pyc
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_lu/wizard/__init__.py
+END
+TVA_MEN_09_xxxx.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_lu/wizard/TVA_MEN_09_xxxx.pdf
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_lu/wizard/__init__.pyc
+END

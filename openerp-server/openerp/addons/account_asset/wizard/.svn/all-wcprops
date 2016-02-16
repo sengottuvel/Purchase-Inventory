@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_asset/wizard
+END
+account_asset_change_duration.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_asset/wizard/account_asset_change_duration.py
+END
+account_asset_change_duration_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_asset/wizard/account_asset_change_duration_view.xml
+END
+account_asset_change_duration.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_asset/wizard/account_asset_change_duration.pyc
+END
+wizard_asset_compute.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_asset/wizard/wizard_asset_compute.py
+END
+wizard_asset_compute_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_asset/wizard/wizard_asset_compute_view.xml
+END
+wizard_asset_compute.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_asset/wizard/wizard_asset_compute.pyc
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_asset/wizard/__init__.py
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_asset/wizard/__init__.pyc
+END

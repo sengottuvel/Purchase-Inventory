@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/KGTrust_ERP/!svn/ver/7/openerp-server/openerp/addons/kg_gate_pass
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/KGTrust_ERP/!svn/ver/2/openerp-server/openerp/addons/kg_gate_pass/__init__.py
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/KGTrust_ERP/!svn/ver/2/openerp-server/openerp/addons/kg_gate_pass/__init__.pyc
+END
+gate_pass_report_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/KGTrust_ERP/!svn/ver/2/openerp-server/openerp/addons/kg_gate_pass/gate_pass_report_view.xml
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/KGTrust_ERP/!svn/ver/2/openerp-server/openerp/addons/kg_gate_pass/__openerp__.py
+END
+kg_gate_pass.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/KGTrust_ERP/!svn/ver/501/openerp-server/openerp/addons/kg_gate_pass/kg_gate_pass.py
+END
+kg_gate_pass_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/KGTrust_ERP/!svn/ver/501/openerp-server/openerp/addons/kg_gate_pass/kg_gate_pass_view.xml
+END
+kg_gate_pass.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/KGTrust_ERP/!svn/ver/2/openerp-server/openerp/addons/kg_gate_pass/kg_gate_pass.pyc
+END

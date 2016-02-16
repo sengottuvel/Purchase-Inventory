@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_voucher/security
+END
+account_voucher_security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_voucher/security/account_voucher_security.xml
+END
+ir.model.access.csv
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/account_voucher/security/ir.model.access.csv
+END

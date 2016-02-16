@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/purchase/test/process
+END
+cancel_order.yml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/purchase/test/process/cancel_order.yml
+END
+generate_invoice_from_reception.yml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/purchase/test/process/generate_invoice_from_reception.yml
+END
+run_scheduler.yml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/purchase/test/process/run_scheduler.yml
+END
+edi_purchase_order.yml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/purchase/test/process/edi_purchase_order.yml
+END
+merge_order.yml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/purchase/test/process/merge_order.yml
+END
+invoice_on_poline.yml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/purchase/test/process/invoice_on_poline.yml
+END
+rfq2order2done.yml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/purchase/test/process/rfq2order2done.yml
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/KGTrust_ERP/!svn/ver/263/openerp-server/openerp/addons/kg_physical_stock/report
+END
+onscreen_physical_stock_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/KGTrust_ERP/!svn/ver/263/openerp-server/openerp/addons/kg_physical_stock/report/onscreen_physical_stock_report.py
+END
+Physical_stock.jasper
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/KGTrust_ERP/!svn/ver/263/openerp-server/openerp/addons/kg_physical_stock/report/Physical_stock.jasper
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/KGTrust_ERP/!svn/ver/263/openerp-server/openerp/addons/kg_physical_stock/report/__init__.py
+END
+Physical_stock.jrxml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/KGTrust_ERP/!svn/ver/364/openerp-server/openerp/addons/kg_physical_stock/report/Physical_stock.jrxml
+END

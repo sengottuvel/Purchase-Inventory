@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/purchase_analytic_plans
+END
+purchase_analytic_plans.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/purchase_analytic_plans/purchase_analytic_plans.py
+END
+purchase_analytic_plans_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/purchase_analytic_plans/purchase_analytic_plans_view.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/purchase_analytic_plans/__init__.py
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/purchase_analytic_plans/__openerp__.py
+END

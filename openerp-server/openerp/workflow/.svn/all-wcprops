@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/workflow
+END
+common.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/workflow/common.py
+END
+wkf_expr.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/workflow/wkf_expr.pyc
+END
+wkf_service.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/workflow/wkf_service.pyc
+END
+wkf_logs.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/workflow/wkf_logs.py
+END
+wkf_logs.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/workflow/wkf_logs.pyc
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/workflow/__init__.py
+END
+workitem.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/workflow/workitem.py
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/workflow/__init__.pyc
+END
+instance.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/workflow/instance.py
+END
+workitem.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/workflow/workitem.pyc
+END
+wkf_expr.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/workflow/wkf_expr.py
+END
+instance.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/workflow/instance.pyc
+END
+wkf_service.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/workflow/wkf_service.py
+END

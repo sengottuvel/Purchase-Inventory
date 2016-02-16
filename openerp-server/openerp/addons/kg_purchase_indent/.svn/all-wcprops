@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_purchase_indent
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/KGTrust_ERP/!svn/ver/2/openerp-server/openerp/addons/kg_purchase_indent/__init__.pyc
+END
+__openerp__.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/KGTrust_ERP/!svn/ver/2/openerp-server/openerp/addons/kg_purchase_indent/__openerp__.py
+END
+kg_purchase_indent.py-bk
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/KGTrust_ERP/!svn/ver/2/openerp-server/openerp/addons/kg_purchase_indent/kg_purchase_indent.py-bk
+END
+kg_purchase_indent.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/KGTrust_ERP/!svn/ver/239/openerp-server/openerp/addons/kg_purchase_indent/kg_purchase_indent.py
+END
+kg_depindent2_poindent.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/KGTrust_ERP/!svn/ver/54/openerp-server/openerp/addons/kg_purchase_indent/kg_depindent2_poindent.py
+END
+kg_purchase_indent_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/KGTrust_ERP/!svn/ver/524/openerp-server/openerp/addons/kg_purchase_indent/kg_purchase_indent_view.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/KGTrust_ERP/!svn/ver/2/openerp-server/openerp/addons/kg_purchase_indent/__init__.py
+END
+kg_purchase_indent.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/KGTrust_ERP/!svn/ver/2/openerp-server/openerp/addons/kg_purchase_indent/kg_purchase_indent.pyc
+END
+kg_depindent2_poindent.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/KGTrust_ERP/!svn/ver/2/openerp-server/openerp/addons/kg_purchase_indent/kg_depindent2_poindent.pyc
+END

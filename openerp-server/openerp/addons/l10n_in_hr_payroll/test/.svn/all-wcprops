@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_in_hr_payroll/test
+END
+payment_advice.yml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_in_hr_payroll/test/payment_advice.yml
+END
+payment_advice_batch.yml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/l10n_in_hr_payroll/test/payment_advice_batch.yml
+END

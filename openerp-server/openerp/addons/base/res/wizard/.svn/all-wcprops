@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/res/wizard
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/res/wizard/__init__.pyc
+END
+change_password_wizard.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/res/wizard/change_password_wizard.py
+END
+change_password_wizard_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/res/wizard/change_password_wizard_view.xml
+END
+change_password_wizard.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/res/wizard/change_password_wizard.pyc
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sam_turbo_dev/!svn/ver/2/openerp-server/openerp/addons/base/res/wizard/__init__.py
+END

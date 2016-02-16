@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_service_order/wizard
+END
+so2_service_bill.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/KGTrust_ERP/!svn/ver/53/openerp-server/openerp/addons/kg_service_order/wizard/so2_service_bill.py
+END
+so2_service_bill_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_service_order/wizard/so2_service_bill_view.xml
+END
+kg_service_order_wizard.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_service_order/wizard/kg_service_order_wizard.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_service_order/wizard/__init__.py
+END
+kg_service_order_wizard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/KGTrust_ERP/!svn/ver/4/openerp-server/openerp/addons/kg_service_order/wizard/kg_service_order_wizard.xml
+END
